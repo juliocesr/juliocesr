@@ -2,6 +2,14 @@
 
 <h3> 👨‍💻 &nbsp;Sobre mim </h3>
 
+<p>
+  <ul>
+      <li> Desenvolvedor Front-end; </li> 
+      <li> Aprendendo mais sobre UX/UI, Framework Angular e Acessibilidade; </li>
+      <li> Inglês Intermediário; </li>
+      <li> Buscando sempre aprimorar meus conhecimentos. </li>
+  </ul>
+</p>
 
 
 <h3> 🛠 &nbsp;Skills</h3>
