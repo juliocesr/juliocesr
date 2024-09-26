@@ -1,7 +1,7 @@
 <img src="baner.gif" width="300px" heigth="300px" align="right">
 
 # Bem vindos! 😁
-Eu sou Julio, sou desenvolvedor full-stack, estou na area um pouco mais de 2 anos desenvolvendo um api aqui, criando um bug ali 💻;
+Eu sou Julio, sou desenvolvedor back-end, estou na area um pouco mais de 2 anos desenvolvendo um api aqui, criando um bug ali 💻;
 ---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,7 +32,7 @@ Entre em contato!<br>
 <img src="baner.gif" width="300px" heigth="300px" align="right">
 
 # Welcome! 😁
-I'm Julio, I'm full stack developer, I've been in the area for a little over 2 years developing an api here, creating a bug there 💻;
+I'm Julio, I'm back end developer, I've been in the area for a little over 2 years developing an api here, creating a bug there 💻;
 ---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
